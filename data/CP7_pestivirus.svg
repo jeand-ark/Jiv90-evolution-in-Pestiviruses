@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="271.2px" version="1.1" width="4167.63px">
+    <defs/>
+    <g transform="translate(5,0)">
+        <line fill="none" stroke="black" x1="5" x2="3913" y1="14.6" y2="14.6"/>
+        <rect fill="#00ffff" height="19px" opacity="1" rx="10" ry="10" stroke="none" width="168px" x="6" y="5.0"/>
+        <rect fill="#ffff00" height="19px" opacity="1" rx="10" ry="10" stroke="none" width="56px" x="178" y="5.0"/>
+        <rect fill="#0000ff" height="19px" opacity="1" rx="10" ry="10" stroke="none" width="370px" x="700" y="5.0"/>
+        <rect fill="#ff0000" height="19px" opacity="1" rx="10" ry="10" stroke="none" width="199px" x="1338" y="5.0"/>
+        <rect fill="#00ff00" height="19px" opacity="1" rx="10" ry="10" stroke="none" width="211px" x="1604" y="5.0"/>
+        <rect fill="#800000" height="19px" opacity="1" rx="10" ry="10" stroke="none" width="140px" x="1822" y="5.0"/>
+        <rect fill="#008000" height="19px" opacity="1" rx="10" ry="10" stroke="none" width="116px" x="1998" y="5.0"/>
+        <rect fill="#ff00ff" height="19px" opacity="1" rx="10" ry="10" stroke="none" width="142px" x="2148" y="5.0"/>
+        <rect fill="#000080" height="19px" opacity="1" rx="10" ry="10" stroke="none" width="230px" x="3473" y="5.0"/>
+        <line fill="none" stroke="black" x1="5" x2="3913" y1="36.8" y2="36.8"/>
+        <rect fill="#00ffff" height="19px" opacity="1" rx="10" ry="10" stroke="none" width="168px" x="6" y="27.2"/>
+        <rect fill="#ffff00" height="19px" opacity="1" rx="10" ry="10" stroke="none" width="56px" x="178" y="27.2"/>
+        <rect fill="#0000ff" height="19px" opacity="1" rx="10" ry="10" stroke="none" width="370px" x="700" y="27.2"/>
+        <rect fill="#ff0000" height="19px" opacity="1" rx="10" ry="10" stroke="none" width="199px" x="1338" y="27.2"/>
+        <rect fill="#00ff00" height="19px" opacity="1" rx="10" ry="10" stroke="none" width="211px" x="1604" y="27.2"/>
+        <rect fill="#800000" height="19px" opacity="1" rx="10" ry="10" stroke="none" width="140px" x="1822" y="27.2"/>
+        <rect fill="#008000" height="19px" opacity="1" rx="10" ry="10" stroke="none" width="116px" x="1998" y="27.2"/>
+        <rect fill="#ff00ff" height="19px" opacity="1" rx="10" ry="10" stroke="none" width="142px" x="2148" y="27.2"/>
+        <rect fill="#000080" height="19px" opacity="1" rx="10" ry="10" stroke="none" width="230px" x="3473" y="27.2"/>
+        <text fill="black" style="font-size:22px; font-family:Courier New" x="3918" y="22.2">AF220247.2/1-3908</text>
+        <text fill="black" style="font-size:22px; font-family:Courier New" x="3918" y="44.4">U63479.1/1-3908</text>
+        <rect fill="#0000ff" height="19px" stroke="none" width="19px" x="5" y="71.4"/>
+        <text fill="black" style="font-size:18px; font-family:Courier New" x="29.2" y="88.60000000000001">2</text>
+        <text fill="black" style="font-size:18px; font-family:Courier New; font-weight:bold" x="72.37" y="88.60000000000001">Pestivirus_E2</text>
+        <text fill="black" style="font-size:18px; font-family:Courier New" x="288.21999999999997" y="88.60000000000001">Pestivirus envelope glycoprotein E2</text>
+        <rect fill="#00ff00" height="19px" stroke="none" width="19px" x="5" y="93.60000000000001"/>
+        <text fill="black" style="font-size:18px; font-family:Courier New" x="29.2" y="110.80000000000001">2</text>
+        <text fill="black" style="font-size:18px; font-family:Courier New; font-weight:bold" x="72.37" y="110.80000000000001">Peptidase_S31</text>
+        <text fill="black" style="font-size:18px; font-family:Courier New" x="288.21999999999997" y="110.80000000000001">Pestivirus NS3 polyprotein peptidase S31</text>
+        <rect fill="#ff0000" height="19px" stroke="none" width="19px" x="5" y="115.80000000000001"/>
+        <text fill="black" style="font-size:18px; font-family:Courier New" x="29.2" y="133.0">2</text>
+        <text fill="black" style="font-size:18px; font-family:Courier New; font-weight:bold" x="72.37" y="133.0">Peptidase_C74</text>
+        <text fill="black" style="font-size:18px; font-family:Courier New" x="288.21999999999997" y="133.0">Pestivirus NS2 peptidase</text>
+        <rect fill="#00ffff" height="19px" stroke="none" width="19px" x="5" y="138.0"/>
+        <text fill="black" style="font-size:18px; font-family:Courier New" x="29.2" y="155.2">2</text>
+        <text fill="black" style="font-size:18px; font-family:Courier New; font-weight:bold" x="72.37" y="155.2">Peptidase_C53</text>
+        <text fill="black" style="font-size:18px; font-family:Courier New" x="288.21999999999997" y="155.2">Pestivirus Npro endopeptidase C53</text>
+        <rect fill="#ff00ff" height="19px" stroke="none" width="19px" x="5" y="160.2"/>
+        <text fill="black" style="font-size:18px; font-family:Courier New" x="29.2" y="177.39999999999998">2</text>
+        <text fill="black" style="font-size:18px; font-family:Courier New; font-weight:bold" x="72.37" y="177.39999999999998">Flav_NS3-hel_C</text>
+        <text fill="black" style="font-size:18px; font-family:Courier New" x="288.21999999999997" y="177.39999999999998">Flavivirus NS3 helicase, C-terminal helical domain</text>
+        <rect fill="#ffff00" height="19px" stroke="none" width="19px" x="5" y="182.4"/>
+        <text fill="black" style="font-size:18px; font-family:Courier New" x="29.2" y="199.6">2</text>
+        <text fill="black" style="font-size:18px; font-family:Courier New; font-weight:bold" x="72.37" y="199.6">Capsid_pestivir</text>
+        <text fill="black" style="font-size:18px; font-family:Courier New" x="288.21999999999997" y="199.6">Capsid protein C, pestivirus</text>
+        <rect fill="#000080" height="19px" stroke="none" width="19px" x="5" y="204.6"/>
+        <text fill="black" style="font-size:18px; font-family:Courier New" x="29.2" y="221.79999999999998">2</text>
+        <text fill="black" style="font-size:18px; font-family:Courier New; font-weight:bold" x="72.37" y="221.79999999999998">RdRP_3</text>
+        <text fill="black" style="font-size:18px; font-family:Courier New" x="288.21999999999997" y="221.79999999999998">Viral RNA dependent RNA polymerase</text>
+        <rect fill="#008000" height="19px" stroke="none" width="19px" x="5" y="226.8"/>
+        <text fill="black" style="font-size:18px; font-family:Courier New" x="29.2" y="244.0">2</text>
+        <text fill="black" style="font-size:18px; font-family:Courier New; font-weight:bold" x="72.37" y="244.0">Helicase_C</text>
+        <text fill="black" style="font-size:18px; font-family:Courier New" x="288.21999999999997" y="244.0">Helicase conserved C-terminal domain</text>
+        <rect fill="#800000" height="19px" stroke="none" width="19px" x="5" y="249.0"/>
+        <text fill="black" style="font-size:18px; font-family:Courier New" x="29.2" y="266.2">2</text>
+        <text fill="black" style="font-size:18px; font-family:Courier New; font-weight:bold" x="72.37" y="266.2">Flavi_DEAD</text>
+        <text fill="black" style="font-size:18px; font-family:Courier New" x="288.21999999999997" y="266.2">Flavivirus DEAD domain</text>
+    </g>
+</svg>
