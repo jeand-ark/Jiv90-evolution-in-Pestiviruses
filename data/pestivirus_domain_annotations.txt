@@ -1,0 +1,23 @@
+Npro	ff0000
+C	0000ff
+Erns	008000
+E1	007580
+E2	440080
+NS2	ff6f00
+NS3	000000
+NS4A	548aff
+NS4B	8ebd5e
+NS5A	86f0f7
+RdRp	4a5202
+mature Npro	MK636874.1/1-11613/Dongyang_pangolin_virus_isolate_DYAJ1	-1	16	182	Npro
+mature C	MK636874.1/1-11613/Dongyang_pangolin_virus_isolate_DYAJ1	-1	160	256	C
+mature Erns	MK636874.1/1-11613/Dongyang_pangolin_virus_isolate_DYAJ1	-1	256	476	Erns
+mature E1	MK636874.1/1-11613/Dongyang_pangolin_virus_isolate_DYAJ1	-1	475	674	E1
+mature E2	MK636874.1/1-11613/Dongyang_pangolin_virus_isolate_DYAJ1	-1	681	1049	E2
+mature NS2	MK636874.1/1-11613/Dongyang_pangolin_virus_isolate_DYAJ1	-1	1121	1579	NS2
+mature NS3	MK636874.1/1-11613/Dongyang_pangolin_virus_isolate_DYAJ1	-1	1569	2252	NS3
+mature NS4A	MK636874.1/1-11613/Dongyang_pangolin_virus_isolate_DYAJ1	-1	2252	2315	NS4A
+mature NS4B	MK636874.1/1-11613/Dongyang_pangolin_virus_isolate_DYAJ1	-1	2315	2662	NS4B
+mature NS5A	MK636874.1/1-11613/Dongyang_pangolin_virus_isolate_DYAJ1	-1	2662	3158	NS5A
+mature RdRp	MK636874.1/1-11613/Dongyang_pangolin_virus_isolate_DYAJ1	-1	3158	3870	RdRp
+
